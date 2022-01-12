@@ -18,4 +18,10 @@
         
             ├── Book report.pdf
 
+    └── Session #2
+
+        ├── example_function.py
+        
+        ├── fonctions_python.pptx
+
 Link to join : [teacode.ma/join](https://teacode.ma/join)
