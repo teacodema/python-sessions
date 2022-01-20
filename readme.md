@@ -28,4 +28,14 @@
         
             ├── Book report.pdf
 
+    └── Session #3
+        
+        ├── session3_1.py
+        
+        ├── session3_2.py
+        
+        ├── session3_3.py
+        
+        ├── session3.pptx
+
 Link to join : [teacode.ma/join](https://teacode.ma/join)
