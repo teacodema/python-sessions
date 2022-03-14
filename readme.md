@@ -1,3 +1,5 @@
+<img src="assets/python-ws.png" />
+
 # About
 
 > *This is the repository of the python sessions*
